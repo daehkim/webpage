@@ -5,23 +5,23 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "daehkim.github.io"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 80
 
 [[main]]
   name = "Contact"

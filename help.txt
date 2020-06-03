@@ -1,0 +1,2 @@
+# Add the publication
+hugo new --kind publication publication/<my-publication>
