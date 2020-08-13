@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration, JXCDC, 2019"
-#authors: [Y. Long, D. Kim, E. Lee, P. Saha, B. A. Mudassar, X. She, A. I. Khan, S. Mukhopadhyay]
-authors: []
+authors: [Y. Long, D. Kim, E. Lee, P. Saha, B. A. Mudassar, X. She, A. I. Khan, S. Mukhopadhyay]
+#authors: []
 date: 2019-06-02T23:00:51-04:00
 doi: ""
 

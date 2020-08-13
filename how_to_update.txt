@@ -1,0 +1,4 @@
+1. Update the content/~~
+2. >hugo
+3. cd public
+4. git push

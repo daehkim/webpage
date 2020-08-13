@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A ReRAM Memory Compiler with Layout-Precise Performance Evaluation, S3S, 2019"
-#authors: ["E. Lee, D. Kim, V. C. K. Chekuri, Y. Long, S. Mukhopadhydy"]
-authors: []
+authors: ["E. Lee, D. Kim, V. C. K. Chekuri, Y. Long, S. Mukhopadhydy"]
+#authors: []
 date: 2019-06-02T23:00:58-04:00
 doi: ""
 

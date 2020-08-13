@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs, DAC, 2019"
-#authors: [H. Park, K. Chang, B. -W. Ku, J. Kim, E. Lee, D. Kim, A. Chaudhuri, S. Banerjee, S. Mukhopadhyay, K. CHakrabarty, S. -K. Lim]
-authors: []
+authors: [H. Park, K. Chang, B. -W. Ku, J. Kim, E. Lee, D. Kim, A. Chaudhuri, S. Banerjee, S. Mukhopadhyay, K. CHakrabarty, S. -K. Lim]
+#authors: []
 date: 2019-01-01T22:57:02-04:00
 doi: ""
 

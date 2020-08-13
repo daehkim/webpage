@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SciNet: Deep Learning with Spike-assisted Contextual Information Extraction, arXiv, 2019"
-authors: []
+authors: [X. She, Y. Long, D. Kim, S. Mukhopadhyay]
 date: 2019-06-02T23:25:57-04:00
 doi: ""
 

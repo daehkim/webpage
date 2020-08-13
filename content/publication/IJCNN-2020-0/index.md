@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Flex-PIM: A Ferroelectric FET based Vector Matrix Multiplication Engine with Dynamical Bitwidth and Floating Point Precision, IJCNN, 2020"
-#authors: [Y. Long, E. Lee, D. Kim, S. Mukhopadhyay]
-authors: []
+authors: [Y. Long, E. Lee, D. Kim, S. Mukhopadhyay]
+#authors: []
 date: 2020-06-02T23:02:37-04:00
 doi: ""
 

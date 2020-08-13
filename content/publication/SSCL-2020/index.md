@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A processing-In-Memory based On-chip Learning with Spike-Time-Dependent-Plasticity in 65nm CMOS, SSCL, 2020"
-authors: []
+authors: [D. Kim, X. She, N. Rahman, V. Chekuri, S. Mukhopadhyay]
 date: 2020-07-27T16:38:55-04:00
 doi: ""
 

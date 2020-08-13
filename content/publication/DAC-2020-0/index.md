@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Q-PIM: A Genetic Algorithm based Flexible DNN Quantization Method and Application to Processing-In-Memory Platform, DAC, 2020"
-#authors: [Y. Long, E. Lee, D. Kim, S. Mukhopadhyay]
-authors: []
+authors: [Y. Long, E. Lee, D. Kim, S. Mukhopadhyay]
+#authors: []
 date: 2020-06-02T23:02:22-04:00
 doi: ""
 

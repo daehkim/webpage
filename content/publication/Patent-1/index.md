@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Physically Unclonable Function Circuit, and System and Integrated Circuit Including the Same"
-authors: []
+authors: [S. Park, D. Kim, M. Noh, B. Karpinskyy, Y. Lee, Y. Choi]
 date: 2018-06-02T23:31:58-04:00
 doi: ""
 

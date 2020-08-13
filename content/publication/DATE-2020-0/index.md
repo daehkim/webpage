@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Advances in Design and Test of Monolithic 3D ICs, DATE, 2020"
-authors: []
-#authors: [A. Chaudhuri, S. Banerjee, H. Park, J. Kim, G. Murali, E. Lee, D. Kim, S. -K. Kim, S. Mukhopadhyay, K. Chakrabarty]
+#authors: []
+authors: [A. Chaudhuri, S. Banerjee, H. Park, J. Kim, G. Murali, E. Lee, D. Kim, S. -K. Kim, S. Mukhopadhyay, K. Chakrabarty]
 date: 2020-06-02T23:01:05-04:00
 doi: ""
 

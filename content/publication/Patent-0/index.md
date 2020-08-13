@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Integrated circuit for physically unclonable function and device including the same"
-authors: []
+authors: [B. Karpinskyy, D. Kim, M. Noh, S. Park, Y. Lee, Y. Choi]
 date: 2019-01-01T23:30:56-04:00
 doi: ""
 

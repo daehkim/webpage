@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SAFE-DNN: A Deep Neural Network With Spike Assisted Feature Extraction For Noise Robust Inference, IJCNN, 2020"
-#authors: ["X. She", "P. Saha", "D. Kim", "Y. Long", "S. Mukhopadhyay"]
-authors: []
+authors: ["X. She", "P. Saha", "D. Kim", "Y. Long", "S. Mukhopadhyay"]
+#authors: []
 date: 2020-06-02T23:02:40-04:00
 doi: ""
 
